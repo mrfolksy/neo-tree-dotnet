@@ -1,0 +1,58 @@
+[
+  {
+    "ProjectName": "NeoTreeDotNetExample.Console",
+    "RelativePath": "NeoTreeDotNetExample.Console/NeoTreeDotNetExample.Console.csproj",
+    "AbsolutePath": "/Users/chris/.config/nvim/dev/plugins/mrfolksy/neo-tree-dotnet/dotnet/example/NeoTreeDotNetExample.Console/NeoTreeDotNetExample.Console.csproj",
+    "ProjectGuid": "{C333DCC3-2F75-4F9B-B2BB-C6B3577C5188}",
+    "ParentProjectGuid": null,
+    "Dependencies": [],
+    "ProjectConfigurations": {
+      "Debug|Any CPU": {
+        "ConfigurationName": "Debug",
+        "PlatformName": "AnyCPU",
+        "FullName": "Debug|AnyCPU",
+        "IncludeInBuild": true
+      },
+      "Release|Any CPU": {
+        "ConfigurationName": "Release",
+        "PlatformName": "AnyCPU",
+        "FullName": "Release|AnyCPU",
+        "IncludeInBuild": true
+      }
+    },
+    "ProjectType": 1
+  },
+  {
+    "ProjectName": "Shared",
+    "RelativePath": "Shared",
+    "AbsolutePath": "/Users/chris/.config/nvim/dev/plugins/mrfolksy/neo-tree-dotnet/dotnet/example/Shared",
+    "ProjectGuid": "{1927BB32-5FEA-4C61-919F-96703A4B5BA3}",
+    "ParentProjectGuid": null,
+    "Dependencies": [],
+    "ProjectConfigurations": {},
+    "ProjectType": 2
+  },
+  {
+    "ProjectName": "NeoTreeDotNetExample.Common",
+    "RelativePath": "Shared/NeoTreeDotNetExample.Common/NeoTreeDotNetExample.Common.csproj",
+    "AbsolutePath": "/Users/chris/.config/nvim/dev/plugins/mrfolksy/neo-tree-dotnet/dotnet/example/Shared/NeoTreeDotNetExample.Common/NeoTreeDotNetExample.Common.csproj",
+    "ProjectGuid": "{F8BB0277-B2CE-4CFF-821A-4321153E907C}",
+    "ParentProjectGuid": "{1927BB32-5FEA-4C61-919F-96703A4B5BA3}",
+    "Dependencies": [],
+    "ProjectConfigurations": {
+      "Debug|Any CPU": {
+        "ConfigurationName": "Debug",
+        "PlatformName": "AnyCPU",
+        "FullName": "Debug|AnyCPU",
+        "IncludeInBuild": true
+      },
+      "Release|Any CPU": {
+        "ConfigurationName": "Release",
+        "PlatformName": "AnyCPU",
+        "FullName": "Release|AnyCPU",
+        "IncludeInBuild": true
+      }
+    },
+    "ProjectType": 1
+  }
+]
